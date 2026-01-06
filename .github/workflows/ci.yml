@@ -38,7 +38,7 @@ jobs:
 
       # 6. Exécution des tests d'intégration
       - name: Run Integration Tests
-        run: npm run test:integration
+        run: npm test -- tests/integration/
 
       # 7. Publication du rapport de couverture
       - name: Upload Coverage Report
