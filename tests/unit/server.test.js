@@ -23,7 +23,8 @@ describe("Server", () => {
   });
 
   it("should return 400 for GET /hello with invalid name", async () => {
-    const res = await request(app).get("/hello/invalid");
+    const res = await request(app)
+          .get("/hello/invalid");
     expect(res.statusCode).toBe(400);
   });
 
