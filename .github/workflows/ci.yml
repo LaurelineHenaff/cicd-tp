@@ -33,5 +33,16 @@ jobs:
         run: npm run lint
 
       # 5. Exécution des tests unitaires
-      - name: Run Tests
-        run: npm test
+      - name: Run Unit Tests
+        run: npm test -- --coverage
+
+      # 6. Exécution des tests d'intégration
+      - name: Run Integration Tests
+        run: npm run test:integration
+
+      # 7. Publication du rapport de couverture
+      - name: Upload Coverage Report
+        uses: codecov/codecov-action@v3
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
+          file: coverage.json
