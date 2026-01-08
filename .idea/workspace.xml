@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="842389da-bca2-488f-854e-2f806c33a843" name="Changes" comment="add tests files" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="37q3sGbV8kVsAYxm1OJrVjN2WgK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Jest.Server.should return 400 for GET /hello with invalid name.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "install-allure",
+    "javascript.nodejs.core.library.configured.version": "24.11.1",
+    "javascript.nodejs.core.library.typings.version": "24.10.4",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/laure/workspace/cicd-tp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "C:/Users/laure/workspace/cicd-tp/node_modules/jest",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Server.should return 400 for GET /hello with invalid name" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/unit/server.test.js" />
+      <test-names>
+        <test-name value="Server" />
+        <test-name value="should return 400 for GET /hello with invalid name" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Server.should return 400 for GET /hello with invalid name" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-WS-252.28539.21" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="842389da-bca2-488f-854e-2f806c33a843" name="Changes" comment="" />
+      <created>1767616978693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767616978693</updated>
+      <workItem from="1767616980071" duration="1251000" />
+      <workItem from="1767618247497" duration="4226000" />
+      <workItem from="1767695700787" duration="9219000" />
+      <workItem from="1767861811977" duration="1032000" />
+      <workItem from="1767862960049" duration="11080000" />
+    </task>
+    <task id="LOCAL-00001" summary="add file for ci">
+      <option name="closed" value="true" />
+      <created>1767619169496</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767619169496</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update ci name">
+      <option name="closed" value="true" />
+      <created>1767619846702</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1767619846702</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add tests files">
+      <option name="closed" value="true" />
+      <created>1767707060443</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1767707060443</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add tests files">
+      <option name="closed" value="true" />
+      <created>1767707524418</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1767707524418</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add tests files">
+      <option name="closed" value="true" />
+      <created>1767707626200</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767707626200</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add tests files">
+      <option name="closed" value="true" />
+      <created>1767707704630</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1767707704630</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add tests files">
+      <option name="closed" value="true" />
+      <created>1767862136622</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1767862136622</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add file for ci" />
+    <MESSAGE value="update ci name" />
+    <MESSAGE value="add tests files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add tests files" />
+  </component>
+</project>
